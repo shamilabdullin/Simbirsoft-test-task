@@ -1,0 +1,22 @@
+.loading{
+    margin-top: 5%;
+    text-align: center;
+}
+.listOfLeagues-title{
+    text-align: center;
+    margin-top: 4%;
+}
+.listOfLeagues-list{
+    margin-top: 3%;
+    text-align: center;
+}
+li{
+    list-style-type: none;
+    font-size: 18px;
+}
+.competitions-dates{
+    font-weight: 600;
+}
+.competitions-name li:hover{
+    background-color: rgb(171, 190, 209);
+}

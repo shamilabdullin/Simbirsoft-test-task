@@ -1,0 +1,23 @@
+.main-page{
+    text-align: start;
+    margin-top: 8%;
+}
+.main-page-description{
+    margin-top: 50px;
+}
+.main-page-body{
+    margin-top: 40px;
+}
+.main-page-body-item{
+    margin-top: 20px;
+}
+.main-page-body-item a{
+    font-weight: bold;
+    color: #4b5;
+    -webkit-text-stroke: .025em rgba(0,0,0);
+}
+.main-page-body-item a:hover{
+    color: black;
+    -webkit-text-stroke: .025em #4b5;
+    transition: 0.5s;
+}

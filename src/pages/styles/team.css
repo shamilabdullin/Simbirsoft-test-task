@@ -1,0 +1,23 @@
+.team-title{
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+.team-matches-names-title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.team-matches-score-title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.team-matches-date-title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.team-matches-score-body{
+    text-align: center;
+}
+.team-matches-date-body{
+    text-align: center;
+}
